@@ -1,0 +1,24 @@
+{
+  "name": "05-clima-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/react-spain/05-clima-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/react-spain/05-clima-app/issues"
+  },
+  "homepage": "https://github.com/react-spain/05-clima-app#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^7.3.3"
+  }
+}
